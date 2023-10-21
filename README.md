@@ -3,8 +3,8 @@
 ## Overview
 This repository contains the code and resources for a project that simulates the solar system, designs a flight trajectory for a probe from Earth to Titan, and simulates a precise landing on the surface of Titan. The primary objective was to investigate the solar system's simulation, create a flight trajectory for a probe from Earth to Titan, and simulate a precise landing on Titan's surface.
 
-## Essay:
-For a detailed understanding of the research and methodologies employed in this project, you can refer to the [essay](https://drive.google.com/file/d/1_NcuvtgqV6aWvxfHzRZZS8Jh8TDFelRb/view?usp=share_link).
+## Report:
+For a detailed understanding of the research and methodologies employed in this project, you can refer to the [report](https://drive.google.com/file/d/1_NcuvtgqV6aWvxfHzRZZS8Jh8TDFelRb/view?usp=share_link).
 
 ## Project Structure
 The codebase is structured to include the following components:
